@@ -157,16 +157,7 @@ Future implementation plans include:
 - Explore transformer architectures
 - Test reinforcement learning approaches
 
-## Evaluation Metric
 
-Model accuracy is calculated as:
-```
-Accuracy = (Number of correct predictions) / (Total number of blank cells)
-```
-
-## Contact & Support
-
-For questions and feedback, please [open an issue](../../issues) in the repository.
 
 ---
 **Note**: This is an active research project. Performance metrics and features are continuously being updated.
